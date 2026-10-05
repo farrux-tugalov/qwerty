@@ -1,0 +1,39 @@
+.body{
+box-sizing: border-box;
+
+}
+
+.h1{
+background-color: rgb(65, 24, 24);
+width: 636px;
+color: white;
+text-align: center;
+margin: 22px auto 61px;
+font-size: 64px;
+font-weight: 700px;
+
+}
+
+.body{
+background-color: rgb(40, 85, 40);
+
+}
+
+.ota{
+width: 1000px;
+background-color: black;
+padding: 39px 52px 51px;
+margin: 0 auto;
+border: 10px solid red ;
+}
+
+.bola{
+background-color: aquamarine;
+padding: 54px 40px;
+margin-top: 10px;
+
+}
+
+.p{
+    font-size: 24px;
+}
